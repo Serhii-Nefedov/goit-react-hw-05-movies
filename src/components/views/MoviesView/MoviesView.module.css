@@ -1,0 +1,26 @@
+.wrapper {
+  padding-top: 15px;
+  padding-left: 20px;
+}
+
+.moviesList {
+  margin-top: 20px;
+}
+
+.moviesList li {
+  margin-bottom: 4px;
+}
+
+.searchBtn {
+  margin-left: 20px;
+  color: #ffffff;
+  background-color: #252525;
+  cursor: pointer;
+  border: none;
+  border-radius: 3px;
+}
+
+.searchBtn:hover {
+  background-color: blue;
+}
+

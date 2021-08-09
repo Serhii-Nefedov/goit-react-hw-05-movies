@@ -1,0 +1,25 @@
+.castList {
+   list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0;
+  margin: 10px;
+}
+
+.castItem {
+  display: flex;
+  width: 100px;
+  margin: 10px;
+  flex-direction: column;
+  border: 1px solid rgb(221, 221, 221);
+}
+
+.castList .description {
+  margin-bottom: 30px;
+}
+
+.noImg {
+  text-align: center;
+  margin-top: 55px;
+  margin-bottom: 80px;
+}

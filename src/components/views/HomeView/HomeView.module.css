@@ -1,0 +1,23 @@
+.trendingSection {
+  padding-top: 10px;
+  padding-left: 20px;
+}
+
+.trendingList {
+  padding-top: 10px;
+}
+
+
+
+.trendingList li {
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+.trendingTitle {
+  color: red;
+}
+
+a {
+  color: blue;
+};

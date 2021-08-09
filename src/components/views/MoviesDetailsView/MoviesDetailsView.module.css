@@ -1,0 +1,36 @@
+.section {
+  padding-top: 10px;
+  padding-left: 20px;
+}
+
+.goBackBtn {
+  margin-top: 15px;
+  margin-left: 20px;
+  cursor: pointer;
+  color: #ffffff;
+  background-color: #252525;
+  border: none;
+  border-radius: 3px;
+}
+
+.goBackBtn:hover {
+background-color: blue;
+}
+
+.wrapper {
+  display: flex;
+}
+
+.description {
+  padding-top: 20px; 
+  margin-left: 20px;
+}
+
+.description h2 {
+  margin-top: 20px;
+}
+
+.description h3 {
+  margin-top: 20px;
+}
+
